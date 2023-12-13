@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahuf2003
 - 👀 I’m interested in coding and learning new technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 
