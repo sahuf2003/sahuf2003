@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sahufdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sahufdev" height="30" width="40" /></a>
-<a href="https://twitter.com/sahuf__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahuf__19" height="30" width="40" /></a>
+<a href="https://twitter.com/sahuf__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahuf__18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-sahuf-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-sahuf-shaikh" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohammadsahufshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadsahufshaikh" height="30" width="40" /></a>
 <a href="https://instagram.com/sahuf__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahuf__19" height="30" width="40" /></a>
