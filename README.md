@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3>- 🌱 I’m currently learning Machine Learning</h3>
 <h3>- 💞️ I’m looking to collaborate on many projects</h3>
 <h3>- 📫 How to reach me ...</h3>
-<img align="center" width= "400" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
+<img align="right" width= "400" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuf2003&label=Profile%20views&color=0e75b6&style=flat" alt="sahuf2003" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahuf2003" alt="sahuf2003" /></a> </p>
