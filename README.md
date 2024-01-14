@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I am 20 year old passionate developer</h3>
 <img align="right" width= "300" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
 <br>
-<br>
+
 <h3>👀 I’m interested in coding and learning new technologies</h3>
 <h3>🌱 I’m currently learning Machine Learning </h3>
 <h3>💞️ I’m looking to collaborate on many projects</h3>
