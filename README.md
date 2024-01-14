@@ -7,11 +7,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Sahuf Shaikh</h1>
 <h3 align="center">I am 20 year old passionate developer</h3>
-<h4>- 👀 I’m interested in coding and learning new technologies</h4>
-<h4>- 🌱 I’m currently learning Machine Learning </h4>
-<h4>- 💞️ I’m looking to collaborate on many projects</h4>
-<h4>- 📫 How to reach me ...</h4>
-<img align="right" width= "400" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
+<img align="right" width= "300" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
+<h5>- 👀 I’m interested in coding and learning new technologies</h5>
+<h5>- 🌱 I’m currently learning Machine Learning </h5>
+<h5>- 💞️ I’m looking to collaborate on many projects</h5>
+<h5>- 📫 How to reach me ...</h5>
+<br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuf2003&label=Profile%20views&color=0e75b6&style=flat" alt="sahuf2003" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahuf2003" alt="sahuf2003" /></a> </p>
