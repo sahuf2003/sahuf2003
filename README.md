@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-<br>
-<br>
+
 <h2></h2>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuf2003&label=Profile%20views&color=0e75b6&style=flat" alt="sahuf2003" /> </p>
