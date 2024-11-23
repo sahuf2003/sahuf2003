@@ -53,4 +53,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" width = "400" src="https://github-readme-streak-stats.herokuapp.com/?user=sahuf2003&" alt="sahuf2003" /></p>
 
 
-[![sahuf2003's GitHub | Languages Over Time](https://stats.quira.sh/sahuf2003/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sahuf2003)
+[![sahuf2003's GitHub | Languages Over Time](https://stats.quira.sh/sahuf2003/languages-over-time?theme=dark)](https://github.com/sahuf2003)
