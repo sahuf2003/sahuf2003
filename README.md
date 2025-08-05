@@ -6,7 +6,7 @@ sahuf2003/sahuf2003 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Sahuf Shaikh</h1>
-<h3 align="center">I am 20 year old passionate developer</h3>
+
 <img align="right" width= "300" src ="https://github.com/sahuf2003/sahuf2003/blob/main/vegeta.gif">
 <br>
 
